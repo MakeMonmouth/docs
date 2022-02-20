@@ -10,7 +10,7 @@ New to Make Monmouth? Here's what you need to know:
 
 Open to anyone over the age of 18, Make Monmouth is a space where you can create, design, tinker, and hack on your projects in the company of like-minded people.
 
-If it helps, we want to end up as a combination of a [Hackspace](https://hackspace.org.uk), [Men's Shed](https://menssheds.org.uk/), Electronic Parts store, Art Studio, and Haberdashery which is open to anyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. (You can read more about this in our [Code of Conduct](/code-of-conduct).)
+If it helps, we want to end up as a combination of a [Hackspace](https://hackspace.org.uk), [Men's Shed](https://menssheds.org.uk/), Electronic Parts store, Art Studio, and Haberdashery which is open to anyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. (You can read more about this in our [Code of Conduct](/en/latest/code-of-conduct).)
 
 ### Sounds great, how do I sign up?
 
