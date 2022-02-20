@@ -1,3 +1,4 @@
 site_name: Make Monmouth CIC Documentation
+site_url: https://docs.makemonmouth.co.uk/
 theme:
     name: readthedocs
