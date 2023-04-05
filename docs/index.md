@@ -16,7 +16,7 @@ If it helps, we want to end up as a combination of a [Hackspace](https://hackspa
 
 Come along to one of our open evenings!
 
-These are held on the first Thursday of every month at [Woodland View Stores](https://goo.gl/maps/cJkfhT5tCQ3i8Az88), Wyesham, Monmouth.
+These are held on the first Tuesday of every month between 8pm and 10pm at [Woodland View Stores](https://goo.gl/maps/cJkfhT5tCQ3i8Az88), Wyesham, Monmouth.
 
 You'll be able to chat with our existing members, learn more about the membership levels and our plans for the future, and sign up to gain more frequent access to the space.
 
