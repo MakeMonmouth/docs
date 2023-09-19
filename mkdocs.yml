@@ -2,3 +2,7 @@ site_name: Make Monmouth CIC Documentation
 site_url: https://docs.makemonmouth.co.uk/
 theme:
     name: readthedocs
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
