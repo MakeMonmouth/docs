@@ -1,6 +1,6 @@
 # Equipment usage
 
-We've been incredibly grateful to all those who have lent us equipment whilst getting started, and we understand that those people will want that equipment back at some point, so we're introducing a set of icons and stickers that will be omn all equipment so everyone knows what can be done with that item and how long it will be around for.
+We've been incredibly grateful to all those who have lent us equipment whilst getting started, and we understand that those people will want that equipment back at some point, so we're introducing a set of icons and stickers that will be on all equipment so everyone knows what can be done with that item and how long it will be around for.
 
 !!! note
     Anything **loaned** to the space will have a sticker with a RED border, anything **owned** by Make Monmouth will have a BLUE border.
@@ -13,7 +13,7 @@ If you do not want other people to try and fix or improve that item, we can add 
 
 ### Common sense takes priority
 
-We assume that anything in the space is to eb treated with respect and only repaired/taken apart/upgraded with the consent of the owner.  The stickers indicate when this is *not* the case, however, you should always leave things as you find them unless the sticker indicates otherwise!
+We assume that anything in the space is to be treated with respect and only repaired/taken apart/upgraded with the consent of the owner.  The stickers indicate when this is *not* the case, however, you should always leave things as you find them unless the sticker indicates otherwise!
 
 ## How do the stickers work?
 
