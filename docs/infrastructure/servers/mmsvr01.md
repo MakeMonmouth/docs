@@ -1,5 +1,7 @@
 # MMSVR01
 
+| Hostname:         | mmsvr01.int.makemonmouth.co.uk |
+|-------------------|--------------------------------|
 | IP Address:       | 10.232.123.10 |
 | Contact:          | `@proffalken` on Discord |
 | Donated on:       | 2024-01-08 |
@@ -14,7 +16,7 @@
 ## Services
 
 | Service Name | SystemD Name | Purpose | Owner (Discord Name) | More information |
-|--------------|--------------|---------|-------|
+|--------------|--------------|---------|----------------------|------------------|
 | Github Runner | actions.runner.MakeMonmouth.mmsvr01.service | Deploy software and containers locally | `@proffalken` | [Github Self-hosted Runners](https://docs.github.com/en/actions/hosting-your-own-runners) |
 | Grafana Agent | grafana-agent-flow.service | Observability | `@proffalken` | [Grafana Agent Flow Mode](https://grafana.com/docs/agent/latest/flow/) |
-
+| Docker | docker-io.service | Container Management | `@proffalken` | [Docker Documentation](https://docs.docker.com/) |
