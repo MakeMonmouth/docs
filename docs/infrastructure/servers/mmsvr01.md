@@ -1,0 +1,19 @@
+# MMSVR01
+
+| IP Address:       | 10.232.123.10 |
+| Contact:          | `@proffalken` on Discord |
+| Donated on:       | 2024-01-08 |
+| Donated By:       | [Edinburgh Remakery](edinburghremakery.org.uk) |
+| Manufacturer:     | Cisco |
+| Model:            | UCS220 M4 |
+| Operating System: | Ubuntu Linux |
+| CPU:              | 2 x Intel(R) Xeon(R) CPU E5-2609 v3 @ 1.90GHz (12 cores total) |
+| RAM:              | 48GB
+| Disk:             | 2 x 512GB SSD |
+
+## Services
+
+| Service Name | SystemD Name | Purpose | Owner (Discord Name) |
+|--------------|--------------|---------|-------|
+| Github Runner | actions.runner.MakeMonmouth.mmsvr01.service | Deploy software and containers locally | `@proffalken` |
+
