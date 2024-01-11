@@ -13,7 +13,8 @@
 
 ## Services
 
-| Service Name | SystemD Name | Purpose | Owner (Discord Name) |
+| Service Name | SystemD Name | Purpose | Owner (Discord Name) | More information |
 |--------------|--------------|---------|-------|
-| Github Runner | actions.runner.MakeMonmouth.mmsvr01.service | Deploy software and containers locally | `@proffalken` |
+| Github Runner | actions.runner.MakeMonmouth.mmsvr01.service | Deploy software and containers locally | `@proffalken` | [Github Self-hosted Runners](https://docs.github.com/en/actions/hosting-your-own-runners) |
+| Grafana Agent | grafana-agent-flow.service | Observability | `@proffalken` | [Grafana Agent Flow Mode](https://grafana.com/docs/agent/latest/flow/) |
 
