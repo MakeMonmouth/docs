@@ -1,4 +1,4 @@
-# Electical Consumables
+# Electrical Consumables
 
 These are items that the space holds as "stock" and that members are welcome to use.
 
