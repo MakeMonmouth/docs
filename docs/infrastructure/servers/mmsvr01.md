@@ -5,7 +5,7 @@
 | IP Address:       | 10.232.123.10 |
 | Contact:          | `@proffalken` on Discord |
 | Donated on:       | 2024-01-08 |
-| Donated By:       | [Edinburgh Remakery](edinburghremakery.org.uk) |
+| Donated By:       | [Edinburgh Remakery](https://www.edinburghremakery.org.uk) |
 | Manufacturer:     | Cisco |
 | Model:            | UCS220 M4 |
 | Operating System: | Ubuntu Linux |
@@ -18,5 +18,5 @@
 | Service Name | SystemD Name | Purpose | Owner (Discord Name) | More information |
 |--------------|--------------|---------|----------------------|------------------|
 | Github Runner | actions.runner.MakeMonmouth.mmsvr01.service | Deploy software and containers locally | `@proffalken` | [Github Self-hosted Runners](https://docs.github.com/en/actions/hosting-your-own-runners) |
-| Grafana Agent | grafana-agent-flow.service | Observability | `@proffalken` | [Grafana Agent Flow Mode](https://grafana.com/docs/agent/latest/flow/) |
+| Grafana Alloy | alloy.service | Observability | `@proffalken` | [Grafana Alloy](https://grafana.com/docs/alloy/latest/) |
 | Docker | docker-io.service | Container Management | `@proffalken` | [Docker Documentation](https://docs.docker.com/) |
