@@ -1,14 +1,14 @@
-# Welcome to Make Monmouth's Documentation site
+# Welcome to Wye Make's Documentation site
 
-If you'd like to know more about Make Monmouth and what we do, you can [visit our website](https://www.makemonmouth.co.uk/) or [email us](mailto:info@makemonmouth.co.uk).
+If you'd like to know more about Wye Make and what we do, you can [visit our website](https://www.makemonmouth.co.uk/) or [email us](mailto:info@makemonmouth.co.uk).
 
-## Make Monmouth Quick Start
+## Wye Make Quick Start
 
-New to Make Monmouth? Here's what you need to know:
+New to Wye Make? Here's what you need to know:
 
-### What is Make Monmouth?
+### What is Wye Make?
 
-Open to anyone in Monmouth and the surrounding areas, Make Monmouth is a space where you can create, design, tinker, and hack on your projects in the company of like-minded people.
+Open to anyone living along the Wye Valley and the surrounding areas, Wye Make is a space where you can create, design, tinker, and hack on your projects in the company of like-minded people.
 
 If it helps, we want to end up as a combination of a [Hackspace](https://hackspace.org.uk), Art Studio, [Men's Shed](https://menssheds.org.uk/), arts, crafts, and electrical component shop, and Haberdashery which is open to anyone regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. (You can read more about this in our [Code of Conduct](/code-of-conduct).)
 
@@ -35,7 +35,7 @@ Membership benefits vary depending on which level you join at, and what we can p
     * Early-access to tickets for events/workshops that we hope to put on for the local community
     * Able to request a key-holder open up the space if they are available (This won't come into effect until we have a space with 24hr access and is at the key-holder's discretion)
 
-We also have "Core Members" - unlike the other membership levels, to become a Core Member you need to have been a part of Make Monmouth for at least 6 months and be willing to take on additional responsibilities such as being "on-call" for if an issue occurs, becoming a "key holder" to open up (when we get a space that we have access to 24x7x365), or even becoming a director of Make Monmouth CIC with all the legal implications that carries.
+We also have "Core Members" - unlike the other membership levels, to become a Core Member you need to have been a part of Wye Make for at least 6 months and be willing to take on additional responsibilities such as being "on-call" for if an issue occurs, becoming a "key holder" to open up (when we get a space that we have access to 24x7x365), or even becoming a director of Wye Make CIC with all the legal implications that carries.
 
 It is also assumed that Core members will be available to support the running of workshops and events, and will take part in raising awareness and funds for the organisation when needed.
 

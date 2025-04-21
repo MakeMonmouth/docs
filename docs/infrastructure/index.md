@@ -1,12 +1,12 @@
 # Infrastructure
 
-This section of the documentation details the infrastructure that we have within Make Monmouth and how to access it.
+This section of the documentation details the infrastructure that we have within Wye Make and how to access it.
 
 Where appropriate, it also details how to interact with these systems and the tasks they perform.
 
 ## Physical Servers
 
-Make Monmouth own the following physical servers:
+Wye Make own the following physical servers:
 
 | Name | Location |
 |------|----------|
@@ -16,7 +16,7 @@ Make Monmouth own the following physical servers:
 
 !!! danger "IMPORTANT!"
 
-    Your application will *only* be accessible within the space and only to people who are connected to the Make Monmouth WiFi.
+    Your application will *only* be accessible within the space and only to people who are connected to the Wye Make WiFi.
 
     All applications run on [mmsvr01](./servers/mmsvr01.md) by default.
 
@@ -27,7 +27,7 @@ Make Monmouth own the following physical servers:
 If you want to deploy an application, you'll need to understand the following things:
 
    * How to use [Github](https://github.com/) including how to raise a Pull Request
-   * The Make Monmouth Developer Guidelines
+   * The Wye Make Developer Guidelines
    * [Docker Compose](https://docs.docker.com/compose/)
 
 !!! bug "How do I learn this?"

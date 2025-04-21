@@ -12,7 +12,7 @@ If you see someone else doing something dangerous, you must report it to one of 
 
 ### What do we mean by "Dangerous"?
 
-We'd hope that this is pretty obvious, however to be absolutely clear Make Monmouth defines "dangerous" as any activity or make that could put the health of our members at risk.
+We'd hope that this is pretty obvious, however to be absolutely clear Wye Make defines "dangerous" as any activity or make that could put the health of our members at risk.
 
 Examples could include (but are by no means limited to!) the following:
 
@@ -26,4 +26,4 @@ Any weapon for cosplay or similar (re-enactments etc) must have a dull blade or 
 
 ### What if I have a weapons license and want to fix an air rifle or more power device?
 
-We'd ask that you find a gun-club or similar. We simply don't have the insurance for that at Make Monmouth, nor do we want to take the chance of injuring someone (or worse!) by mistake.
+We'd ask that you find a gun-club or similar. We simply don't have the insurance for that at Wye Make, nor do we want to take the chance of injuring someone (or worse!) by mistake.
