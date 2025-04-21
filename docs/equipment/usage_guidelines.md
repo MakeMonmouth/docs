@@ -3,7 +3,7 @@
 We've been incredibly grateful to all those who have lent us equipment whilst getting started, and we understand that those people will want that equipment back at some point, so we're introducing a set of icons and stickers that will be on all equipment so everyone knows what can be done with that item and how long it will be around for.
 
 !!! note
-    Anything **loaned** to the space will have a sticker with a RED border, anything **owned** by Make Monmouth will have a BLUE border.
+    Anything **loaned** to the space will have a sticker with a RED border, anything **owned** by Wye Make will have a BLUE border.
 
 ### Assumptions
 
@@ -27,7 +27,7 @@ Every significant item in the space will have a sticker on it.  The sticker will
 
 The stickers look like this:
 
-![An example asset sticker for an item on loan to Make Monmouth](exampleLoanAsset.png)
+![An example asset sticker for an item on loan to Wye Make](exampleLoanAsset.png)
 
 There is a full explanation of what each of these icons mean below, however as an example this item:
 
@@ -38,13 +38,13 @@ There is a full explanation of what each of these icons mean below, however as a
 
 The QR Code has a link to the inventory system where manuals, links to suppliers' websites, and other information about the item can be found.
 
-In contrast, a Make Monmouth owned asset will look like this:
+In contrast, a Wye Make owned asset will look like this:
 
-![An example asset sticker for an item owned by Make Monmouth](exampleOwnedAsset.png)
+![An example asset sticker for an item owned by Wye Make](exampleOwnedAsset.png)
 
 In this case, the item:
 
-  * Is owned by Make Monmouth, so has no need for a "Give Back" term
+  * Is owned by Wye Make, so has no need for a "Give Back" term
   * Cannot be taken apart for "spares" or component reuse elsewhere
   * Must not be removed from the space
   * Requires advanced training/induction before use (this could be a 3D printer, sewing machine, or similar)

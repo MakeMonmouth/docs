@@ -1,5 +1,5 @@
-site_name: Make Monmouth CIC Documentation
-site_url: https://docs.makemonmouth.co.uk/
+site_name: Wye Make Documentation
+site_url: https://docs.wyemake.co.uk/
 theme:
     name: material
 extra_css:

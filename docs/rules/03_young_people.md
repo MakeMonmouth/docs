@@ -2,7 +2,7 @@
 
 ## Summary
 
-At Make Monmouth, we prioritize the safety and inclusivity of all members and visitors, including young people. To ensure the safety of everyone in our space, all individuals under 18 years old must be accompanied by a responsible adult. The responsible adult will be accountable for the safety and behavior of the young person they are accompanying.
+At Wye Make, we prioritize the safety and inclusivity of all members and visitors, including young people. To ensure the safety of everyone in our space, all individuals under 18 years old must be accompanied by a responsible adult. The responsible adult will be accountable for the safety and behavior of the young person they are accompanying.
 
 ## GCSE Age and Above
 
